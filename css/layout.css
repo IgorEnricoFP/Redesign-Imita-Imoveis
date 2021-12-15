@@ -1,0 +1,273 @@
+* {
+  font-family: "Poppins";
+}
+
+#header {
+  width: 100%;
+  height: 100px;
+  background: #252efc;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  float: left;
+}
+
+#menuheader {
+  width: 2%;
+  height: 40%;
+  text-align: center;
+  background: url("../assets/botao-de-menu.png");
+  background-size: cover;
+  margin-top: 25px;
+  margin-left: 50px;
+  float: left;
+}
+
+#logoheader {
+  width: 13%;
+  height: 92%;
+  background: url("../assets/logo.png");
+  background-size: cover;
+  margin-left: 210px;
+  margin-top: 5px;
+  float: left;
+}
+
+#barrapesquisa {
+  width: 2.5%;
+  height: 38%;
+  background: url("../assets/pesquisa.png");
+  background-size: cover;
+  text-align: right;
+  margin-top: 30px;
+  margin-left: 400px;
+  float: left;
+}
+
+#search {
+  height: 400px;
+  font-size: 16pt;
+  margin-top: 30px;
+  margin-left: 5px;
+  float: left;
+}
+
+#conta {
+  width: 4.8%;
+  height: 75%;
+  margin-top: 15px;
+  margin-right: 40px;
+  background: url("../assets/conta.png");
+  background-size: cover;
+  float: right;
+}
+
+#left {
+  width: 79%;
+  height: 1300px;
+  float: left;
+}
+
+#esquerda {
+  width: 65.8%;
+  height: 100%;
+  float: left;
+}
+
+#banner {
+  width: 100%;
+  height: 45%;
+  float: left;
+  border-bottom: 2px solid #ccc;
+}
+
+#h2banner {
+  width: 100%;
+  height: 10%;
+  float: left;
+  padding-bottom: 50px;
+  padding-left: 10px;
+  margin-left: 10px;
+  font-weight: 600;
+  font-size: 36px;
+}
+
+#imgbannerdestaque {
+  width: 60%;
+  height: 67%;
+  margin-left: 25px;
+  margin-top: 10px;
+  float: left;
+}
+
+#pbanner {
+  width: 30%;
+  font-size: 22px;
+  margin-top: 50px;
+  padding: 0;
+  margin-right: 40px;
+  float: right;
+}
+
+#imoveis {
+  width: 100%;
+  height: 50%;
+  float: left;
+}
+
+#imovelh1 {
+  width: 100%;
+  height: 10%;
+  float: left;
+  padding-bottom: 50px;
+  padding-left: 10px;
+  margin-left: 25px;
+  font-weight: 600;
+  font-size: 36px;
+}
+
+#imovel {
+  width: 48%;
+  height: 100%;
+  float: left;
+}
+
+.imgimovel {
+  width: 85%;
+  height: 20%;
+  margin-left: 38px;
+  float: left;
+}
+
+.pimovel {
+  width: 100%;
+  height: 25%;
+  margin-left: 38px;
+  float: left;
+}
+
+#imovel2 {
+  width: 48%;
+  height: 100%;
+  float: left;
+}
+
+.imgimovel {
+  width: 85%;
+  height: 30%;
+  margin-left: 38px;
+  float: left;
+}
+
+#pimovel2 {
+  width: 90%;
+  height: 25%;
+  margin-left: 48px;
+  float: left;
+}
+
+#direita {
+  width: 34%;
+  height: 100%;
+  border-left: 2px solid #ccc;
+  float: right;
+}
+
+#direitah1 {
+  font-weight: 600;
+  font-size: 36px;
+  width: 100%;
+  height: 6%;
+  text-align: center;
+}
+
+.imgdireita {
+  width: 85%;
+  height: 20%;
+  margin-left: 38px;
+  float: left;
+}
+
+.pDireita {
+  font-size: 16px;
+  width: 90%;
+  height: 20%;
+  margin-left: 38px;
+  float: left;
+}
+
+hr {
+  width: 90%;
+  margin-left: 1px;
+  text-align: left;
+}
+
+#barradireita {
+  width: 20%;
+  height: 1300px;
+  float: right;
+  background: #b0c4de;
+  box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.25);
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border: 2px solid rgba(0, 0, 0, 0.25);
+}
+
+#menudireita {
+  width: 100%;
+  height: 32%;
+  font-size: 30px;
+  border-bottom: 1px solid #000;
+  float: left;
+}
+
+.menuopc {
+  padding-bottom: 25px;
+  font-weight: 600;
+  font-size: 15px;
+  list-style: none;
+  margin-left: 10px;
+}
+
+#contato {
+  width: 100%;
+  height: 50%;
+  text-align: left;
+  padding-top: 25px;
+  margin-left: 10px;
+  float: left;
+}
+
+#contatologo {
+  width: 25%;
+  height: 100%;
+  padding-bottom: 150px;
+  float: left;
+}
+
+.logoc {
+  width: 100%;
+  height: 10%;
+  padding-bottom: 20px;
+}
+
+#contatodireita {
+  width: 75%;
+  height: 100%;
+  text-align: left;
+  float: left;
+}
+
+#ulcontato {
+  padding: 0;
+}
+
+.contatoopc {
+  width: 75%;
+  padding-bottom: 60px;
+  font-weight: 500;
+  font-size: 13px;
+  list-style: none;
+  text-align: left;
+  padding-left: 10px;
+}
