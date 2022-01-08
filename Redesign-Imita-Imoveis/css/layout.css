@@ -26,39 +26,42 @@
 #logoheader {
   width: 13%;
   height: 92%;
-  background: url("../assets/logo.png");
-  background-size: cover;
   margin-left: 210px;
   margin-top: 5px;
   float: left;
 }
 
 #barrapesquisa {
-  width: 2.5%;
-  height: 38%;
-  background: url("../assets/pesquisa.png");
-  background-size: cover;
-  text-align: right;
-  margin-top: 30px;
-  margin-left: 400px;
   float: left;
+  margin-top: 28px;
+  margin-left: 250px;
+  background-color:#fff;
+  border:solid 1px;
+  border-radius:10px;
+  width: 280px;
+  height: 40px;
 }
 
-#search {
-  height: 400px;
-  font-size: 16pt;
-  margin-top: 30px;
-  margin-left: 5px;
-  float: left;
+#txtbusca {
+  float:left;
+  background-color:transparent;
+  padding-left:5px;
+  font-size:18px;
+  border:none;
+  height:40px;
+  width:225px;
 }
 
+#barrapesquisa img {
+  margin-top: 3px;
+  margin-left: 3px;
+  float: left;
+}
 #conta {
   width: 4.8%;
   height: 75%;
-  margin-top: 15px;
+  margin-top: 25px;
   margin-right: 40px;
-  background: url("../assets/conta.png");
-  background-size: cover;
   float: right;
 }
 
