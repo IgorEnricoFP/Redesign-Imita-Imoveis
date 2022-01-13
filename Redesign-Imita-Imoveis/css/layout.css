@@ -15,11 +15,10 @@
 #menuheader {
   width: 2%;
   height: 40%;
+  color: #252efc;
   text-align: center;
-  background: url("../assets/botao-de-menu.png");
-  background-size: cover;
-  margin-top: 25px;
-  margin-left: 50px;
+  margin-top: 15px;
+  margin-left: 25px;
   float: left;
 }
 
